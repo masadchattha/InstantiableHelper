@@ -1,8 +1,8 @@
 //
 //  UIStoryboard+Extension.swift
-//  QRCodeHelper
+//  InstantiableHelper
 //
-//  Created by Muhammad Asad Chattha on 10/12/2023.
+//  Created by Muhammad Asad Chattha on 12/12/2023.
 //
 
 import UIKit
