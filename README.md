@@ -69,5 +69,5 @@ By embracing the Instantiable protocol and the streamlined instantiation method,
 
 ---
 
-I hope this guide helps elevate your code structure. If you'd like to connect and further discuss iOS development, please feel free to visit my [LinkedIn profile](https://www.linkedin.com/in/masadchattha/).
+I hope this guide helps elevate your code structure. If you'd like to connect and further discuss iOS development, visit my [LinkedIn profile](https://www.linkedin.com/in/masadchattha/).
 
